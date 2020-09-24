@@ -45,4 +45,5 @@ I'm a Software development aspirant with a keen interest in full-stack developme
 - 📄 [My Resume](https://docs.google.com/document/d/1a-QpsKRT-81TsGbLZeUNWBmGj7zizfwQz4t5ciCVZnE/view)
 - ⚡ Fun fact: I enjoy building real world applications rather than solving hypothetical competitive coding problems!
 
-<img style="float: right" src="https://github-readme-stats.vercel.app/api?username=pnshiralkar&count_private=true&show_icons=true&include_all_commits=true" alt="Prathamesh's Github Stats"/>
+![Prathamesh's Github Stats](https://github-readme-stats.vercel.app/api?username=pnshiralkar&count_private=true&show_icons=true&include_all_commits=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pnshiralkar&hide=TeX&layout=compact)
