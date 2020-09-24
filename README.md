@@ -5,27 +5,27 @@ I'm a Software development aspirant with a keen interest in full-stack developme
 
 <div align="center">
   
-<a href="https://www.linkedin.com/in/pnshiralkar" title="LinkedIn">
+<a href="https://www.linkedin.com/in/pnshiralkar" title="Connect me on LinkedIn">
   <img align="center" alt="Prathamesh's LinkdeIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 &nbsp;&nbsp;
-<a href="https://pratham.live">
+<a href="https://pratham.live" title="Portfolio Website">
   <img align="center" alt="Portfolio Website" width="22px" src="https://simpleicons.org/icons/internetexplorer.svg" />
 </a>
 &nbsp;&nbsp;
-<a href="mailto:pnshiralkar@gmail.com">
+<a href="mailto:pnshiralkar@gmail.com" title="Mail me">
   <img align="center" alt="Mail me @ pnshiralkar@gmail.com" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.9.0/icons/gmail.svg" />
 </a>
 &nbsp;&nbsp;
-<a href="https://instagram.com/pratham__99">
+<a href="https://instagram.com/pratham__99" title="Instagram">
   <img align="center" alt="Portfolio Website" width="22px" src="https://simpleicons.org/icons/instagram.svg" />
 </a>
 &nbsp;&nbsp;
-<a href="https://docs.google.com/document/d/1a-QpsKRT-81TsGbLZeUNWBmGj7zizfwQz4t5ciCVZnE/view">
+<a href="https://docs.google.com/document/d/1a-QpsKRT-81TsGbLZeUNWBmGj7zizfwQz4t5ciCVZnE/view" title="Resume">
   <img align="center" alt="PlayStore" width="22px" src="https://simpleicons.org/icons/readthedocs.svg" />
 </a>
 &nbsp;&nbsp;
-<a href="https://play.google.com/store/apps/developer?id=Prathamesh+Narendra+Shiralkar">
+<a href="https://play.google.com/store/apps/developer?id=Prathamesh+Narendra+Shiralkar" title="GooglePlay Developer Profile">
   <img align="center" alt="PlayStore" width="22px" src="https://simpleicons.org/icons/googleplay.svg" />
 </a>
 &nbsp;&nbsp;
