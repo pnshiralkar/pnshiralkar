@@ -3,6 +3,8 @@
 
 I'm a Software development aspirant with a keen interest in full-stack development, DevOps and Cloud Computing. I love building robust and highly scalable systems and backends. I am a Udacity Cloud Developer NanoDegree holder. Other interests include traveling, exploring various places, and cuisines.
 
+<div align="center">
+  
 <a href="https://www.linkedin.com/in/pnshiralkar">
   <img align="left" alt="Prathamesh's LinkdeIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
@@ -11,7 +13,7 @@ I'm a Software development aspirant with a keen interest in full-stack developme
   <img align="left" alt="Portfolio Website" width="22px" src="https://simpleicons.org/icons/internetexplorer.svg" />
 </a>
 
-<a href="mailto://pnshiralkar@gmail.com">
+<a href="mailto:pnshiralkar@gmail.com">
   <img align="left" alt="Mail me @ pnshiralkar@gmail.com" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.9.0/icons/gmail.svg" />
 </a>
 
@@ -23,9 +25,9 @@ I'm a Software development aspirant with a keen interest in full-stack developme
   <img align="left" alt="PlayStore" width="22px" src="https://simpleicons.org/icons/googleplay.svg" />
 </a>
 
-
 ![Visitors](https://visitor-badge.glitch.me/badge?page_id=pnshiralkar.pnshiralkar)
 
+</div>
 #
 
 - 🚀 Currently working on [< Execute-it />](https://executeit.ml) - A Realtime Online Code Collaboration Platform!
