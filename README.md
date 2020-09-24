@@ -6,23 +6,23 @@ I'm a Software development aspirant with a keen interest in full-stack developme
 <div align="center">
   
 <a href="https://www.linkedin.com/in/pnshiralkar">
-  <img alt="Prathamesh's LinkdeIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img align="center" alt="Prathamesh's LinkdeIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 
 <a href="https://pratham.live">
-  <img alt="Portfolio Website" width="22px" src="https://simpleicons.org/icons/internetexplorer.svg" />
+  <img align="center" alt="Portfolio Website" width="22px" src="https://simpleicons.org/icons/internetexplorer.svg" />
 </a>
 
 <a href="mailto:pnshiralkar@gmail.com">
-  <img alt="Mail me @ pnshiralkar@gmail.com" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.9.0/icons/gmail.svg" />
+  <img align="center" alt="Mail me @ pnshiralkar@gmail.com" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.9.0/icons/gmail.svg" />
 </a>
 
 <a href="https://instagram.com/pratham__99">
-  <img alt="Portfolio Website" width="22px" src="https://simpleicons.org/icons/instagram.svg" />
+  <img align="center" alt="Portfolio Website" width="22px" src="https://simpleicons.org/icons/instagram.svg" />
 </a>
 
 <a href="https://play.google.com/store/apps/developer?id=Prathamesh+Narendra+Shiralkar">
-  <img alt="PlayStore" width="22px" src="https://simpleicons.org/icons/googleplay.svg" />
+  <img align="center" alt="PlayStore" width="22px" src="https://simpleicons.org/icons/googleplay.svg" />
 </a>
 
 ![Visitors](https://visitor-badge.glitch.me/badge?page_id=pnshiralkar.pnshiralkar)
