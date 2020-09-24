@@ -8,24 +8,24 @@ I'm a Software development aspirant with a keen interest in full-stack developme
 <a href="https://www.linkedin.com/in/pnshiralkar">
   <img align="center" alt="Prathamesh's LinkdeIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-
+&nbsp;&nbsp;
 <a href="https://pratham.live">
   <img align="center" alt="Portfolio Website" width="22px" src="https://simpleicons.org/icons/internetexplorer.svg" />
 </a>
-
+&nbsp;&nbsp;
 <a href="mailto:pnshiralkar@gmail.com">
   <img align="center" alt="Mail me @ pnshiralkar@gmail.com" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.9.0/icons/gmail.svg" />
 </a>
-
+&nbsp;&nbsp;
 <a href="https://instagram.com/pratham__99">
   <img align="center" alt="Portfolio Website" width="22px" src="https://simpleicons.org/icons/instagram.svg" />
 </a>
-
+&nbsp;&nbsp;
 <a href="https://play.google.com/store/apps/developer?id=Prathamesh+Narendra+Shiralkar">
   <img align="center" alt="PlayStore" width="22px" src="https://simpleicons.org/icons/googleplay.svg" />
 </a>
-
-![Visitors](https://visitor-badge.glitch.me/badge?page_id=pnshiralkar.pnshiralkar)
+&nbsp;&nbsp;
+<img align="center" alt="Visitors" width="22px" src="https://visitor-badge.glitch.me/badge?page_id=pnshiralkar.pnshiralkar" />
 
 </div>
 
