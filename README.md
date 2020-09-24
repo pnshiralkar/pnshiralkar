@@ -5,7 +5,7 @@ I'm a Software development aspirant with a keen interest in full-stack developme
 
 <div align="center">
   
-<a href="https://www.linkedin.com/in/pnshiralkar">
+<a href="https://www.linkedin.com/in/pnshiralkar" title="LinkedIn">
   <img align="center" alt="Prathamesh's LinkdeIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 &nbsp;&nbsp;
