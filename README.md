@@ -1,5 +1,8 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" />, I'm Prathamesh</h1>
 <h3 align="center">A passionate developer from India 🇮🇳</h3>
+
+I'm a Software development aspirant with a keen interest in full-stack development, DevOps and Cloud Computing. I love building robust and highly scalable systems and backends. I am a Udacity Cloud Developer NanoDegree holder. My latest project is an online compiler built for security and scalability, supporting 15+ languages. I've also started learning and doing projects in DevOps and Cloud computing using AWS. Other interests include traveling, exploring various places, and cuisines.
+
 <!--
 **pnshiralkar/pnshiralkar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
