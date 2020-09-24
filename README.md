@@ -50,5 +50,7 @@ I'm a Software development aspirant with a keen interest in full-stack developme
 ![Prathamesh's Github Stats](https://github-readme-stats.vercel.app/api?username=pnshiralkar&count_private=true&show_icons=true&include_all_commits=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pnshiralkar&hide=TeX&layout=compact)
 
+#
+
 <h3 align="center">Technologies I'm confortable with</h3>
 
