@@ -25,7 +25,7 @@ I'm a Software development aspirant with a keen interest in full-stack developme
   <img align="center" alt="PlayStore" width="22px" src="https://simpleicons.org/icons/googleplay.svg" />
 </a>
 &nbsp;&nbsp;
-<img align="center" alt="Visitors" width="22px" src="https://visitor-badge.glitch.me/badge?page_id=pnshiralkar.pnshiralkar" />
+<img align="center" alt="Visitors" src="https://visitor-badge.glitch.me/badge?page_id=pnshiralkar.pnshiralkar" />
 
 </div>
 
