@@ -21,10 +21,15 @@ I'm a Software development aspirant with a keen interest in full-stack developme
   <img align="center" alt="Portfolio Website" width="22px" src="https://simpleicons.org/icons/instagram.svg" />
 </a>
 &nbsp;&nbsp;
+<a href="https://docs.google.com/document/d/1a-QpsKRT-81TsGbLZeUNWBmGj7zizfwQz4t5ciCVZnE/view">
+  <img align="center" alt="PlayStore" width="22px" src="https://simpleicons.org/icons/readthedocs.svg" />
+</a>
+&nbsp;&nbsp;
 <a href="https://play.google.com/store/apps/developer?id=Prathamesh+Narendra+Shiralkar">
   <img align="center" alt="PlayStore" width="22px" src="https://simpleicons.org/icons/googleplay.svg" />
 </a>
 &nbsp;&nbsp;
+
 <img align="center" alt="Visitors" src="https://visitor-badge.glitch.me/badge?page_id=pnshiralkar.pnshiralkar" />
 
 </div>
@@ -37,7 +42,7 @@ I'm a Software development aspirant with a keen interest in full-stack developme
 - 🌱 Exploring DevOps and Cloud Computing.
 - 🎓 Third year undergrad @ [PICT, Pune, India](https;//pict.edu)
 - 💬 Let's talk about Tech, Internships, Travelling and Food!
-- 📄 [My Resume](https://docs.google.com/document/d/1a-QpsKRT-81TsGbLZeUNWBmGj7zizfwQz4t5ciCVZnE/edit)
+- 📄 [My Resume](https://docs.google.com/document/d/1a-QpsKRT-81TsGbLZeUNWBmGj7zizfwQz4t5ciCVZnE/view)
 - ⚡ Fun fact: I enjoy building real world applications rather than solving hypothetical competitive coding problems!
 
 <img style="float: right" src="https://github-readme-stats.vercel.app/api?username=pnshiralkar&count_private=true&show_icons=true&include_all_commits=true" alt="Prathamesh's Github Stats"/>
