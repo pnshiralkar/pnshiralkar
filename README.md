@@ -6,27 +6,27 @@ I'm a Software development aspirant with a keen interest in full-stack developme
 <div align="center">
   
 <a href="https://www.linkedin.com/in/pnshiralkar" title="Connect me on LinkedIn">
-  <img align="center" alt="Prathamesh's LinkdeIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img align="center" alt="Prathamesh's LinkdeIn" src="https://img.shields.io/badge/&#47;pnshiralkar%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 &nbsp;&nbsp;
 <a href="https://pratham.live" title="Portfolio Website">
-  <img align="center" alt="Portfolio Website" width="22px" src="https://simpleicons.org/icons/internetexplorer.svg" />
+  <img align="center" alt="Portfolio Website" src="https://img.shields.io/badge/pratham.live%20-%23FF9900?logo=realm&style=for-the-badge&logoColor=white" />
 </a>
 &nbsp;&nbsp;
 <a href="mailto:pnshiralkar@gmail.com" title="Mail me">
-  <img align="center" alt="Mail me @ pnshiralkar@gmail.com" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.9.0/icons/gmail.svg" />
+  <img align="center" alt="pnshiralkar@gmail.com" src="https://img.shields.io/badge/pnshiralkar@gmail.com%20-%23F05033?logo=gmail&style=for-the-badge&logoColor=white" />
 </a>
 &nbsp;&nbsp;
 <a href="https://instagram.com/pratham__99" title="Instagram">
-  <img align="center" alt="Portfolio Website" width="22px" src="https://simpleicons.org/icons/instagram.svg" />
+  <img align="center" alt="Portfolio Website" src="https://img.shields.io/badge/&#47;pratham__99%20-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white" />
 </a>
 &nbsp;&nbsp;
 <a href="https://docs.google.com/document/d/1a-QpsKRT-81TsGbLZeUNWBmGj7zizfwQz4t5ciCVZnE/view" title="Resume">
-  <img align="center" alt="PlayStore" width="22px" src="https://simpleicons.org/icons/readthedocs.svg" />
+  <img align="center" alt="PlayStore" src="https://img.shields.io/badge/Resume%20-%23326ce5.svg?&style=for-the-badge&logo=microsoft-word&logoColor=white" />
 </a>
 &nbsp;&nbsp;
 <a href="https://play.google.com/store/apps/developer?id=Prathamesh+Narendra+Shiralkar" title="GooglePlay Developer Profile">
-  <img align="center" alt="PlayStore" width="22px" src="https://simpleicons.org/icons/googleplay.svg" />
+  <img align="center" alt="PlayStore" src="https://img.shields.io/badge/PlayStore%20-%23000000.svg?&style=for-the-badge&logo=google-play&logoColor=white" />
 </a>
 &nbsp;&nbsp;
 
