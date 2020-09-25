@@ -57,19 +57,19 @@ I'm a Software development aspirant with a keen interest in full-stack developme
 <div align="center">
 
 
-![C](https://img.shields.io/badge/c%20-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white)
+![C](https://img.shields.io/badge/c%20-%230080ff.svg?&style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/c++%20-%230080ff.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Python](https://img.shields.io/badge/python%20-%23FF9900.svg?&style=for-the-badge&logo=python&logoColor=white)
-![Bash](https://img.shields.io/badge/shell_script%20-%23121011.svg?&style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Bash](https://img.shields.io/badge/shell_script%20-%23F05033.svg?&style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![MD](https://img.shields.io/badge/markdown-%23000000.svg?&style=for-the-badge&logo=markdown&logoColor=white)
 
 
 
 ![Node](https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js%20-%23404d59.svg?&style=for-the-badge)
-![Django](https://img.shields.io/badge/django%20-%23092E20.svg?&style=for-the-badge&logo=django&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js%20-%2343853D.svg?&style=for-the-badge)
+![Django](https://img.shields.io/badge/django%20-%23092e20.svg?&style=for-the-badge&logo=django&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300758f.svg?&style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?&style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white)
 
