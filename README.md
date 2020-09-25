@@ -13,12 +13,12 @@ I'm a Software development aspirant with a keen interest in full-stack developme
   <img align="center" alt="Portfolio Website" src="https://img.shields.io/badge/pratham.live%20-%23FF9900?logo=realm&style=for-the-badge&logoColor=white" />
 </a>
 &nbsp;&nbsp;
-<a href="mailto:pnshiralkar@gmail.com" title="Mail me">
-  <img align="center" alt="pnshiralkar@gmail.com" src="https://img.shields.io/badge/pnshiralkar@gmail.com%20-%23F05033?logo=gmail&style=for-the-badge&logoColor=white" />
-</a>
-&nbsp;&nbsp;
 <a href="https://instagram.com/pratham__99" title="Instagram">
   <img align="center" alt="Portfolio Website" src="https://img.shields.io/badge/&#47;pratham__99%20-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white" />
+</a>
+&nbsp;&nbsp;
+<a href="mailto:pnshiralkar@gmail.com" title="Mail me">
+  <img align="center" alt="pnshiralkar@gmail.com" src="https://img.shields.io/badge/Mail me%20-%23F05033?logo=gmail&style=for-the-badge&logoColor=white" />
 </a>
 &nbsp;&nbsp;
 <a href="https://docs.google.com/document/d/1a-QpsKRT-81TsGbLZeUNWBmGj7zizfwQz4t5ciCVZnE/view" title="Resume">
@@ -29,8 +29,6 @@ I'm a Software development aspirant with a keen interest in full-stack developme
   <img align="center" alt="PlayStore" src="https://img.shields.io/badge/PlayStore%20-%23000000.svg?&style=for-the-badge&logo=google-play&logoColor=white" />
 </a>
 &nbsp;&nbsp;
-
-<img align="center" alt="Visitors" src="https://visitor-badge.glitch.me/badge?page_id=pnshiralkar.pnshiralkar" />
 
 </div>
 
