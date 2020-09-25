@@ -35,7 +35,7 @@ I'm a Software development aspirant with a keen interest in full-stack developme
 #
 
 - 🚀 Currently working on [< Execute-it />](https://executeit.ml) - A Realtime Online Code Collaboration Platform!
-- 💻 Intern @ [iMocha](https://interviewmocha.com), where I've built a robust and scalable [Online IDE](https://ide.interviewmocha.com).
+- 💻 Intern @ [iMocha](https://interviewmocha.com), where we've built a robust and scalable [Online IDE](https://ide.interviewmocha.com).
 - ✨ Former Summer Fellow @ [FOSSEE - IIT Bombay](https://fossee.in/)
 - 🌱 Exploring DevOps and Cloud Computing.
 - 💬 Let's talk about Tech, Internships, Travelling and Food!
