@@ -38,17 +38,20 @@ I'm a Software development aspirant with a keen interest in full-stack developme
 
 - 🚀 Currently working on [< Execute-it />](https://executeit.ml) - A Realtime Online Code Collaboration Platform!
 - 💻 Intern @ [iMocha](https://interviewmocha.com), where I've built a robust and scalable [Online IDE](https://ide.interviewmocha.com).
-- 🔭 Former Summer Fellow @ [FOSSEE - IIT Bombay](https://fossee.in/)
+- ✨ Former Summer Fellow @ [FOSSEE - IIT Bombay](https://fossee.in/)
 - 🌱 Exploring DevOps and Cloud Computing.
-- 🎓 Third year undergrad @ [PICT, Pune, India](https://pict.edu)
 - 💬 Let's talk about Tech, Internships, Travelling and Food!
 - 📄 [My Resume](https://docs.google.com/document/d/1a-QpsKRT-81TsGbLZeUNWBmGj7zizfwQz4t5ciCVZnE/view)
 - ⚡ Fun fact: I enjoy building real world applications rather than solving hypothetical competitive coding problems!
 
 #
 
+<div align="center">
+
 ![Prathamesh's Github Stats](https://github-readme-stats.vercel.app/api?username=pnshiralkar&count_private=true&show_icons=true&include_all_commits=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pnshiralkar&hide=TeX&layout=compact)
+
+</div>
 
 #
 
@@ -56,14 +59,12 @@ I'm a Software development aspirant with a keen interest in full-stack developme
 
 <div align="center">
 
-
 ![C](https://img.shields.io/badge/c%20-%230080ff.svg?&style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++%20-%230080ff.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Python](https://img.shields.io/badge/python%20-%23FF9900.svg?&style=for-the-badge&logo=python&logoColor=white)
 ![Bash](https://img.shields.io/badge/shell_script%20-%23F05033.svg?&style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![MD](https://img.shields.io/badge/markdown-%23000000.svg?&style=for-the-badge&logo=markdown&logoColor=white)
-
 
 
 ![Node](https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white)
@@ -81,7 +82,6 @@ I'm a Software development aspirant with a keen interest in full-stack developme
 ![Kubernetes](https://img.shields.io/badge/kubernetes%20-%23326ce5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white)
 ![TravisCI](https://img.shields.io/badge/travisci%20-%232B2F33.svg?&style=for-the-badge&logo=travis&logoColor=white)
 ![Nginx](https://img.shields.io/badge/nginx%20-%23009639.svg?&style=for-the-badge&logo=nginx&logoColor=white)
-
 
 
 ![React](https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB)
