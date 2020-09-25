@@ -39,17 +39,7 @@ I'm a Software development aspirant with a keen interest in full-stack developme
 - ✨ Former Summer Fellow @ [FOSSEE - IIT Bombay](https://fossee.in/)
 - 🌱 Exploring DevOps and Cloud Computing.
 - 💬 Let's talk about Tech, Internships, Travelling and Food!
-- 📄 [My Resume](https://docs.google.com/document/d/1a-QpsKRT-81TsGbLZeUNWBmGj7zizfwQz4t5ciCVZnE/view)
 - ⚡ Fun fact: I enjoy building real world applications rather than solving hypothetical competitive coding problems!
-
-#
-
-<div align="center">
-
-![Prathamesh's Github Stats](https://github-readme-stats.vercel.app/api?username=pnshiralkar&count_private=true&show_icons=true&include_all_commits=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pnshiralkar&hide=TeX&layout=compact)
-
-</div>
 
 #
 
@@ -88,5 +78,14 @@ I'm a Software development aspirant with a keen interest in full-stack developme
 ![HTML](https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white)
 ![JQuery](https://img.shields.io/badge/jquery%20-%230769AD.svg?&style=for-the-badge&logo=jquery&logoColor=white)
+
+</div>
+
+#
+
+<div align="center">
+
+![Prathamesh's Github Stats](https://github-readme-stats.vercel.app/api?username=pnshiralkar&count_private=true&show_icons=true&include_all_commits=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pnshiralkar&hide=TeX&layout=compact)
 
 </div>
