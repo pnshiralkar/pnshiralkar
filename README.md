@@ -5,7 +5,7 @@ I'm a Software development aspirant with a keen interest in full-stack developme
 
 <div align="center">
   
-<a href="https://www.linkedin.com/in/pnshiralkar" title="Connect me on LinkedIn">
+<a href="https://www.linkedin.com/in/pnshiralkar" target="_blank" title="Connect me on LinkedIn">
   <img align="center" alt="Prathamesh's LinkdeIn" src="https://img.shields.io/badge/&#47;pnshiralkar%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 &nbsp;&nbsp;
