@@ -43,7 +43,7 @@ I'm a Software development aspirant with a keen interest in full-stack developme
 
 #
 
-<h3 align="center">Technologies I'm confortable with</h3>
+<h3 align="center">Technologies I'm comfortable with</h3>
 
 <div align="center">
 
