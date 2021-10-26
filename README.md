@@ -9,7 +9,7 @@ I'm a Software development aspirant with a keen interest in full-stack developme
   <img align="center" alt="Prathamesh's LinkdeIn" src="https://img.shields.io/badge/&#47;pnshiralkar%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 &nbsp;&nbsp;
-<a href="https://pratham.live" title="Portfolio Website">
+<a href="https://prathams.dev" title="Portfolio Website">
   <img align="center" alt="Portfolio Website" src="https://img.shields.io/badge/pratham.live%20-%23FF9900?logo=realm&style=for-the-badge&logoColor=white" />
 </a>
 &nbsp;&nbsp;
