@@ -10,7 +10,7 @@ I'm a Software development aspirant with a keen interest in full-stack developme
 </a>
 &nbsp;&nbsp;
 <a href="https://prathams.dev" title="Portfolio Website">
-  <img align="center" alt="Portfolio Website" src="https://img.shields.io/badge/pratham.live%20-%23FF9900?logo=realm&style=for-the-badge&logoColor=white" />
+  <img align="center" alt="Portfolio Website" src="https://img.shields.io/badge/prathams.dev%20-%23FF9900?logo=realm&style=for-the-badge&logoColor=white" />
 </a>
 &nbsp;&nbsp;
 <a href="https://instagram.com/pratham__99" title="Instagram">
