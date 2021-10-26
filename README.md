@@ -17,8 +17,8 @@ I'm a Software development aspirant with a keen interest in full-stack developme
   <img align="center" alt="Portfolio Website" src="https://img.shields.io/badge/&#47;pratham__99%20-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white" />
 </a>
 &nbsp;&nbsp;
-<a href="mailto:pnshiralkar@gmail.com" title="Mail me">
-  <img align="center" alt="pnshiralkar@gmail.com" src="https://img.shields.io/badge/Mail me%20-%23F05033?logo=gmail&style=for-the-badge&logoColor=white" />
+<a href="mailto:hello@prathams.dev" title="Mail me">
+  <img align="center" alt="hello@prathams.dev" src="https://img.shields.io/badge/Mail me%20-%23F05033?logo=gmail&style=for-the-badge&logoColor=white" />
 </a>
 &nbsp;&nbsp;
 <a href="https://docs.google.com/document/d/1a-QpsKRT-81TsGbLZeUNWBmGj7zizfwQz4t5ciCVZnE/view" title="Resume">
