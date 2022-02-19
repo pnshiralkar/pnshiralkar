@@ -38,7 +38,7 @@ Other interests include traveling, exploring various places, and cuisines.
 #
 
 - 🚀 Currently working on [< Execute-it />](https://executeit.ml) - A Realtime Online Code Collaboration Platform!
-- 💻 Backend Intern @ [Fampay](https://fampay.in).
+- 💻 Backend @ [MPL](https://mpl.live).
 - ✨ Former Summer Fellow @ [FOSSEE - IIT Bombay](https://fossee.in/)
 - 🌱 Exploring DevOps and Cloud Computing.
 - 💬 Let's talk about Tech, Internships, Travelling and Food!
