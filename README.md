@@ -1,7 +1,10 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" />, I'm Prathamesh</h1>
 <h3 align="center">A passionate developer from India 🇮🇳</h3>
 
-I'm a Software development aspirant with a keen interest in full-stack development, DevOps and Cloud Computing. I love building robust and highly scalable systems and backends. I am a Udacity Cloud Developer NanoDegree holder. Other interests include traveling, exploring various places, and cuisines.
+I'm a Software developer with a keen interest in backend development. 
+I am a DevOps and Cloud Computing enthusiast with Udacity Cloud Developer NanoDegree. 
+Built Execute-it - a realtime code collaboration and execution platform. 
+Other interests include traveling, exploring various places, and cuisines.
 
 <div align="center">
   
@@ -21,7 +24,7 @@ I'm a Software development aspirant with a keen interest in full-stack developme
   <img align="center" alt="hello@prathams.dev" src="https://img.shields.io/badge/Mail me%20-%23F05033?logo=gmail&style=for-the-badge&logoColor=white" />
 </a>
 &nbsp;&nbsp;
-<a href="https://docs.google.com/document/d/1a-QpsKRT-81TsGbLZeUNWBmGj7zizfwQz4t5ciCVZnE/view" title="Resume">
+<a href="https://go.prathams.dev/resume" title="Resume">
   <img align="center" alt="PlayStore" src="https://img.shields.io/badge/Resume%20-%23326ce5.svg?&style=for-the-badge&logo=microsoft-word&logoColor=white" />
 </a>
 &nbsp;&nbsp;
