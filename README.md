@@ -1,7 +1,7 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" />, I'm Prathamesh</h1>
 <h3 align="center">A passionate developer from India 🇮🇳</h3>
 
-I'm a Software developer with a keen interest in backend development. 
+I'm a Software engineer with a keen interest in backend development. 
 I am a DevOps and Cloud Computing enthusiast with Udacity Cloud Developer NanoDegree. 
 Built Execute-it - a realtime code collaboration and execution platform. 
 Other interests include traveling, exploring various places, and cuisines.
@@ -16,8 +16,8 @@ Other interests include traveling, exploring various places, and cuisines.
   <img align="center" alt="Portfolio Website" src="https://img.shields.io/badge/prathams.dev%20-%23FF9900?logo=realm&style=for-the-badge&logoColor=white" />
 </a>
 &nbsp;&nbsp;
-<a href="https://instagram.com/pratham__99" title="Instagram">
-  <img align="center" alt="Portfolio Website" src="https://img.shields.io/badge/&#47;pratham__99%20-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white" />
+<a href="https://twitter.com/0xpratham_eth" title="Twitter">
+  <img align="center" alt="Twitter" src="https://img.shields.io/badge/Follow%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white" />
 </a>
 &nbsp;&nbsp;
 <a href="mailto:hello@prathams.dev" title="Mail me">
@@ -40,7 +40,7 @@ Other interests include traveling, exploring various places, and cuisines.
 - 🚀 Currently working on [< Execute-it />](https://executeit.ml) - A Realtime Online Code Collaboration Platform!
 - 💻 Tech, mostly backend @ [MPL](https://mpl.live).
 - ✨ Ex-intern at [Fampay](https://fampay.in/), [iMocha](https://www.imocha.io/). Former Summer Fellow @ [FOSSEE - IIT Bombay](https://fossee.in/)
-- 🌱 Exploring DevOps and Cloud Computing.
+- 🌱 Exploring Blockchain.
 - 💬 Let's talk about Tech, Internships, Travelling and Food!
 - ⚡ Fun fact: I enjoy building real world applications rather than solving hypothetical competitive coding problems!
 
