@@ -4,7 +4,7 @@
 I'm a Software engineer with a keen interest in backend development. 
 I am a DevOps and Cloud Computing enthusiast with Udacity Cloud Developer NanoDegree. 
 Built Execute-it - a realtime code collaboration and execution platform. 
-Other interests include traveling, exploring various places, and cuisines.
+PS: Not very active here these days
 
 <div align="center">
   
