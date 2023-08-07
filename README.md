@@ -63,10 +63,8 @@ PS: Not very active here
 ![Express.js](https://img.shields.io/badge/express.js%20-%2343853D.svg?&style=for-the-badge)
 ![Django](https://img.shields.io/badge/django%20-%23092e20.svg?&style=for-the-badge&logo=django&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?&style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%2300758f.svg?&style=for-the-badge&logo=mysql&logoColor=white)
 ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
 ![Kafka](https://img.shields.io/badge/Kafka-000?style=for-the-badge&logo=apachekafka)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white)
 ![DynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white)
 
 
@@ -89,11 +87,10 @@ PS: Not very active here
 
 </div>
 
-#
-
-<div align="center">
+<!---<div align="center">
 
 ![Prathamesh's Github Stats](https://github-readme-stats.vercel.app/api?username=pnshiralkar&count_private=true&show_icons=true&include_all_commits=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pnshiralkar&hide=TeX&layout=compact)
 
 </div>
+--->
