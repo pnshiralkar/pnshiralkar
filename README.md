@@ -1,11 +1,15 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" />, I'm Prathamesh</h1>
 <h3 align="center">A passionate developer from India 🇮🇳</h3>
 
-I'm a Software engineer with a keen interest in backend development. 
+<p align="center">
+I'm a Software engineer experienced in building highly scalable distributed systems.
 I am a DevOps and Cloud Computing enthusiast with Udacity Cloud Developer NanoDegree. 
-Built Execute-it - a realtime code collaboration and execution platform. 
-PS: Not very active here these days
+I like to build products from zero to one.
+</p>
 
+<p align="center">
+PS: Not very active here
+</p>
 <div align="center">
   
 <a href="https://www.linkedin.com/in/pnshiralkar" target="_blank" title="Connect me on LinkedIn">
@@ -37,11 +41,9 @@ PS: Not very active here these days
 
 #
 
-- 🚀 Currently working on [< Execute-it />](https://executeit.ml) - A Realtime Online Code Collaboration Platform!
+- 🚀 Currently building [< Execute-it />](https://executeit.ml) - A Realtime Online Code Collaboration Platform!
 - 💻 Tech, mostly backend @ [MPL](https://mpl.live).
 - ✨ Ex-intern at [Fampay](https://fampay.in/), [iMocha](https://www.imocha.io/). Former Summer Fellow @ [FOSSEE - IIT Bombay](https://fossee.in/)
-- 🌱 Exploring Blockchain.
-- 💬 Let's talk about Tech, Internships, Travelling and Food!
 - ⚡ Fun fact: I enjoy building real world applications rather than solving hypothetical competitive coding problems!
 
 #
@@ -50,20 +52,22 @@ PS: Not very active here these days
 
 <div align="center">
 
-![C](https://img.shields.io/badge/c%20-%230080ff.svg?&style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/c++%20-%230080ff.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Python](https://img.shields.io/badge/python%20-%23FF9900.svg?&style=for-the-badge&logo=python&logoColor=white)
+![Node](https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white)
+![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Bash](https://img.shields.io/badge/shell_script%20-%23F05033.svg?&style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![MD](https://img.shields.io/badge/markdown-%23000000.svg?&style=for-the-badge&logo=markdown&logoColor=white)
 
 
-![Node](https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js%20-%2343853D.svg?&style=for-the-badge)
 ![Django](https://img.shields.io/badge/django%20-%23092e20.svg?&style=for-the-badge&logo=django&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%2300758f.svg?&style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?&style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300758f.svg?&style=for-the-badge&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
+![Kafka](https://img.shields.io/badge/Kafka-000?style=for-the-badge&logo=apachekafka)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white)
+![DynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white)
 
 
 ![Git](https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white)
@@ -76,6 +80,7 @@ PS: Not very active here these days
 
 
 ![React](https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Electron.js](https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=Electron&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white)
 ![MaterialUI](https://img.shields.io/badge/material%20ui%20-%230081CB.svg?&style=for-the-badge&logo=material-ui&logoColor=white)
 ![HTML](https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)
