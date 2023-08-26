@@ -42,7 +42,7 @@ PS: Not very active here
 #
 
 - 🚀 Currently building [GGX - Good Game Exchange](https://ggx.io/) at [MPL](https://mpl.live)
-- 💻 Built [Crictez](https://crictez.club) and got it aquired.
+- 💻 Previously built [Crictez](https://crictez.club) and got it aquired!
 - ✨ Ex-intern at [Fampay](https://fampay.in/), [iMocha](https://www.imocha.io/). Former Summer Fellow @ [FOSSEE - IIT Bombay](https://fossee.in/)
 - ⚡ Fun fact: I enjoy building real world applications rather than solving hypothetical competitive coding problems!
 
